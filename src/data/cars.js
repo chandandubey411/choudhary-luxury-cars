@@ -3,7 +3,8 @@ export const cars = [
   {
     id: 1,
     name: "BMW 7 Series",
-    image: "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=800&q=80",
     pricePerHour: 3500,
     fuel: "Petrol",
     seats: 5,
@@ -13,7 +14,8 @@ export const cars = [
   {
     id: 2,
     name: "BMW X7",
-    image: "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=800&q=80",
     pricePerHour: 3800,
     fuel: "Diesel",
     seats: 7,
@@ -23,7 +25,8 @@ export const cars = [
   {
     id: 3,
     name: "BMW 8 Series Convertible",
-    image: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
     pricePerHour: 4200,
     fuel: "Petrol",
     seats: 4,
@@ -35,7 +38,8 @@ export const cars = [
   {
     id: 4,
     name: "Audi A8 L",
-    image: "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80",
     pricePerHour: 3200,
     fuel: "Petrol",
     seats: 5,
@@ -45,7 +49,8 @@ export const cars = [
   {
     id: 5,
     name: "Audi Q8",
-    image: "https://images.unsplash.com/photo-1542362567-b07e54358753?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1542362567-b07e54358753?w=800&q=80",
     pricePerHour: 3600,
     fuel: "Diesel",
     seats: 5,
@@ -55,7 +60,8 @@ export const cars = [
   {
     id: 6,
     name: "Audi R8 Spyder",
-    image: "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800&q=80",
     pricePerHour: 5500,
     fuel: "Petrol",
     seats: 2,
@@ -67,7 +73,8 @@ export const cars = [
   {
     id: 7,
     name: "Mercedes-Benz S-Class",
-    image: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
     pricePerHour: 4000,
     fuel: "Petrol",
     seats: 5,
@@ -77,7 +84,8 @@ export const cars = [
   {
     id: 8,
     name: "Mercedes-Benz GLS",
-    image: "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&q=80",
     pricePerHour: 4200,
     fuel: "Diesel",
     seats: 7,
@@ -87,7 +95,8 @@ export const cars = [
   {
     id: 9,
     name: "Mercedes-Benz AMG GT",
-    image: "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
     pricePerHour: 5800,
     fuel: "Petrol",
     seats: 2,
@@ -99,7 +108,8 @@ export const cars = [
   {
     id: 10,
     name: "Jaguar XJ",
-    image: "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
     pricePerHour: 3000,
     fuel: "Petrol",
     seats: 5,
@@ -109,7 +119,8 @@ export const cars = [
   {
     id: 11,
     name: "Jaguar F-Pace",
-    image: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80",
     pricePerHour: 3200,
     fuel: "Diesel",
     seats: 5,
@@ -119,7 +130,8 @@ export const cars = [
   {
     id: 12,
     name: "Jaguar F-Type Convertible",
-    image: "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
     pricePerHour: 4500,
     fuel: "Petrol",
     seats: 2,
@@ -131,7 +143,8 @@ export const cars = [
   {
     id: 13,
     name: "Porsche Panamera",
-    image: "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800&q=80",
     pricePerHour: 4800,
     fuel: "Petrol",
     seats: 4,
@@ -141,7 +154,8 @@ export const cars = [
   {
     id: 14,
     name: "Porsche Cayenne",
-    image: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
     pricePerHour: 4500,
     fuel: "Petrol",
     seats: 5,
@@ -151,7 +165,8 @@ export const cars = [
   {
     id: 15,
     name: "Porsche 911 Carrera",
-    image: "https://images.unsplash.com/photo-1611821064430-0d40291d0f0b?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1611821064430-0d40291d0f0b?w=800&q=80",
     pricePerHour: 6000,
     fuel: "Petrol",
     seats: 2,
@@ -163,7 +178,8 @@ export const cars = [
   {
     id: 16,
     name: "Rolls-Royce Phantom",
-    image: "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?w=800&q=80",
     pricePerHour: 8000,
     fuel: "Petrol",
     seats: 5,
@@ -173,7 +189,8 @@ export const cars = [
   {
     id: 17,
     name: "Rolls-Royce Cullinan",
-    image: "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
     pricePerHour: 8000,
     fuel: "Petrol",
     seats: 5,
@@ -183,7 +200,8 @@ export const cars = [
   {
     id: 18,
     name: "Rolls-Royce Dawn",
-    image: "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?w=800&q=80",
     pricePerHour: 7500,
     fuel: "Petrol",
     seats: 4,
@@ -195,7 +213,8 @@ export const cars = [
   {
     id: 19,
     name: "Bentley Flying Spur",
-    image: "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&q=80",
     pricePerHour: 7000,
     fuel: "Petrol",
     seats: 5,
@@ -205,7 +224,8 @@ export const cars = [
   {
     id: 20,
     name: "Bentley Bentayga",
-    image: "https://images.unsplash.com/photo-1621135802920-133df287f89c?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1621135802920-133df287f89c?w=800&q=80",
     pricePerHour: 7200,
     fuel: "Petrol",
     seats: 5,
@@ -215,7 +235,8 @@ export const cars = [
   {
     id: 21,
     name: "Bentley Continental GT",
-    image: "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&q=80",
     pricePerHour: 6800,
     fuel: "Petrol",
     seats: 4,
@@ -227,7 +248,8 @@ export const cars = [
   {
     id: 22,
     name: "Lamborghini Urus",
-    image: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
     pricePerHour: 6500,
     fuel: "Petrol",
     seats: 5,
@@ -237,7 +259,8 @@ export const cars = [
   {
     id: 23,
     name: "Lamborghini Huracán",
-    image: "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=800&q=80",
     pricePerHour: 7500,
     fuel: "Petrol",
     seats: 2,
@@ -247,7 +270,8 @@ export const cars = [
   {
     id: 24,
     name: "Lamborghini Aventador",
-    image: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
     pricePerHour: 8000,
     fuel: "Petrol",
     seats: 2,
@@ -259,7 +283,8 @@ export const cars = [
   {
     id: 25,
     name: "Ferrari Roma",
-    image: "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=800&q=80",
     pricePerHour: 7000,
     fuel: "Petrol",
     seats: 4,
@@ -269,7 +294,8 @@ export const cars = [
   {
     id: 26,
     name: "Ferrari Portofino",
-    image: "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80",
     pricePerHour: 7500,
     fuel: "Petrol",
     seats: 4,
@@ -279,7 +305,8 @@ export const cars = [
   {
     id: 27,
     name: "Ferrari SF90 Stradale",
-    image: "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=800&q=80",
     pricePerHour: 8000,
     fuel: "Electric",
     seats: 2,
@@ -291,7 +318,8 @@ export const cars = [
   {
     id: 28,
     name: "Range Rover Autobiography",
-    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
     pricePerHour: 5000,
     fuel: "Diesel",
     seats: 5,
@@ -301,7 +329,8 @@ export const cars = [
   {
     id: 29,
     name: "Range Rover Sport",
-    image: "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=800&q=80",
     pricePerHour: 4500,
     fuel: "Diesel",
     seats: 5,
@@ -311,11 +340,204 @@ export const cars = [
   {
     id: 30,
     name: "Range Rover Velar",
-    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    image:
+      "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
     pricePerHour: 4000,
     fuel: "Petrol",
     seats: 5,
     type: "SUV",
     brand: "Range Rover",
+  },
+
+  // Ultra Luxury Collection
+  {
+    id: 31,
+    name: "Lamborghini Huracan EVO",
+    image: "https://images.unsplash.com/photo-1621135802920-133df287f89c?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Supercar",
+    brand: "Lamborghini",
+  },
+  {
+    id: 32,
+    name: "Lamborghini Aventador",
+    image: "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?w=800&q=80",
+    pricePerHour: 35000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Supercar",
+    brand: "Lamborghini",
+  },
+  {
+    id: 33,
+    name: "Ferrari F8 Tributo",
+    image: "https://images.unsplash.com/photo-1583121274602-3e2820c69888?w=800&q=80",
+    pricePerHour: 32000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Supercar",
+    brand: "Ferrari",
+  },
+  {
+    id: 34,
+    name: "Ferrari 488 GTB",
+    image: "https://images.unsplash.com/photo-1592198084033-aade902d1aae?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Supercar",
+    brand: "Ferrari",
+  },
+  {
+    id: 35,
+    name: "Bugatti Chiron",
+    image: "https://images.unsplash.com/photo-1566023888550-6b4a92f2e0f1?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Hypercar",
+    brand: "Bugatti",
+  },
+  {
+    id: 36,
+    name: "Rolls-Royce Ghost",
+    image: "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
+    pricePerHour: 33000,
+    fuel: "Petrol",
+    seats: 5,
+    type: "Luxury Sedan",
+    brand: "Rolls-Royce",
+  },
+  {
+    id: 37,
+    name: "Rolls-Royce Phantom",
+    image: "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?w=800&q=80",
+    pricePerHour: 32000,
+    fuel: "Petrol",
+    seats: 5,
+    type: "Luxury Sedan",
+    brand: "Rolls-Royce",
+  },
+  {
+    id: 38,
+    name: "Bentley Continental GT",
+    image: "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&q=80",
+    pricePerHour: 31000,
+    fuel: "Petrol",
+    seats: 4,
+    type: "Luxury Coupe",
+    brand: "Bentley",
+  },
+  {
+    id: 39,
+    name: "Bentley Flying Spur",
+    image: "https://images.unsplash.com/photo-1621135802920-133df287f89c?w=800&q=80",
+    pricePerHour: 33000,
+    fuel: "Petrol",
+    seats: 5,
+    type: "Luxury Sedan",
+    brand: "Bentley",
+  },
+  {
+    id: 40,
+    name: "Range Rover Vogue",
+    image: "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Diesel",
+    seats: 5,
+    type: "SUV",
+    brand: "Range Rover",
+  },
+  {
+    id: 41,
+    name: "Range Rover Autobiography",
+    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    pricePerHour: 32000,
+    fuel: "Diesel",
+    seats: 5,
+    type: "SUV",
+    brand: "Range Rover",
+  },
+  {
+    id: 42,
+    name: "BMW Z4 Roadster",
+    image: "https://images.unsplash.com/photo-1617469767053-d3b523a0b982?w=800&q=80",
+    pricePerHour: 29000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Convertible",
+    brand: "BMW",
+  },
+  {
+    id: 43,
+    name: "Mercedes-Benz AMG GT",
+    image: "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+    pricePerHour: 32000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Sports",
+    brand: "Mercedes-Benz",
+  },
+  {
+    id: 44,
+    name: "Mercedes-Benz S450 4MATIC",
+    image: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Petrol",
+    seats: 5,
+    type: "Luxury Sedan",
+    brand: "Mercedes-Benz",
+  },
+  {
+    id: 45,
+    name: "Toyota Vellfire",
+    image: "https://images.unsplash.com/photo-1566023888550-6b4a92f2e0f1?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Hybrid",
+    seats: 7,
+    type: "Luxury MPV",
+    brand: "Toyota",
+  },
+  {
+    id: 46,
+    name: "Kia Carnival Limousine",
+    image: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+    pricePerHour: 35000,
+    fuel: "Diesel",
+    seats: 7,
+    type: "Luxury MPV",
+    brand: "Kia",
+  },
+  {
+    id: 47,
+    name: "Jaguar F-Type",
+    image: "https://images.unsplash.com/photo-1617654112368-307921291f42?w=800&q=80",
+    pricePerHour: 30000,
+    fuel: "Petrol",
+    seats: 2,
+    type: "Sports",
+    brand: "Jaguar",
+  },
+  {
+    id: 48,
+    name: "Dodge Challenger SRT",
+    image: "https://images.unsplash.com/photo-1584345604476-8ec5f5ca8e6d?w=800&q=80",
+    pricePerHour: 35000,
+    fuel: "Petrol",
+    seats: 4,
+    type: "Muscle Car",
+    brand: "Dodge",
+  },
+  {
+    id: 49,
+    name: "Ford Mustang GT",
+    image: "https://images.unsplash.com/photo-1547744152-14d985cb937b?w=800&q=80",
+    pricePerHour: 32000,
+    fuel: "Petrol",
+    seats: 4,
+    type: "Muscle Car",
+    brand: "Ford",
   },
 ];
