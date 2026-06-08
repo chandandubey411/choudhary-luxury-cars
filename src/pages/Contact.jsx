@@ -4,6 +4,7 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 import { FaPhone, FaEnvelope, FaMapMarkerAlt } from 'react-icons/fa';
 import ContactForm from '../components/sections/ContactForm';
+import DocumentsRequired from '../components/sections/DocumentsRequired';
 import SectionHeading from '../components/ui/SectionHeading';
 import { COMPANY } from '../data/constants';
 
@@ -37,6 +38,9 @@ export default function Contact() {
           </p>
         </div>
       </section>
+
+      {/* Documents Required */}
+      <DocumentsRequired compact />
 
       {/* Two-column layout */}
       <section className="py-20">

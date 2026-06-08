@@ -6,6 +6,7 @@ import { filterCars, sortCars } from '../utils/filterCars';
 import FilterBar from '../components/ui/FilterBar';
 import CarCard from '../components/ui/CarCard';
 import SectionHeading from '../components/ui/SectionHeading';
+import DocumentsRequired from '../components/sections/DocumentsRequired';
 
 export default function Cars() {
   const [filters, setFilters] = useState({ category: 'All', type: 'All', sortBy: 'default' });
@@ -73,6 +74,9 @@ export default function Cars() {
           </div>
         )}
       </section>
+
+      {/* Documents Required */}
+      <DocumentsRequired compact />
     </div>
   );
 }

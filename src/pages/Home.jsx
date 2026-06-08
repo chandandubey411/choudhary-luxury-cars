@@ -5,6 +5,7 @@ import 'aos/dist/aos.css';
 import HeroSection from '../components/sections/HeroSection';
 import FeaturedCars from '../components/sections/FeaturedCars';
 import WhyChooseUs from '../components/sections/WhyChooseUs';
+import DocumentsRequired from '../components/sections/DocumentsRequired';
 import Testimonials from '../components/sections/Testimonials';
 import ContactPreview from '../components/sections/ContactPreview';
 import SectionHeading from '../components/ui/SectionHeading';
@@ -58,6 +59,7 @@ export default function Home() {
 
       <FeaturedCars />
       <WhyChooseUs />
+      <DocumentsRequired />
       <Testimonials />
       <ContactPreview />
     </>
