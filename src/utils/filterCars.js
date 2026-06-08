@@ -1,22 +1,31 @@
 /**
- * Returns cars matching the given type, or all cars if type === "All".
+ * Filter cars by category and/or type.
  * Does NOT mutate the input array.
  */
-export function filterByType(cars, type) {
-  if (type === "All") return [...cars];
-  return cars.filter((car) => car.type === type);
+export function filterCars(cars, { category, type }) {
+  let result = [...cars];
+
+  if (category && category !== "All") {
+    result = result.filter((car) => car.category === category);
+  }
+
+  if (type && type !== "All") {
+    result = result.filter((car) => car.type === type);
+  }
+
+  return result;
 }
 
 /**
  * Returns a sorted copy of the cars array.
- * "price-asc"  → ascending pricePerHour
- * "price-desc" → descending pricePerHour
+ * "price-asc"  → ascending price
+ * "price-desc" → descending price
  * "default"    → original order
  * Does NOT mutate the input array.
  */
 export function sortCars(cars, sortBy) {
   const copy = [...cars];
-  if (sortBy === "price-asc") return copy.sort((a, b) => a.pricePerHour - b.pricePerHour);
-  if (sortBy === "price-desc") return copy.sort((a, b) => b.pricePerHour - a.pricePerHour);
+  if (sortBy === "price-asc") return copy.sort((a, b) => a.price - b.price);
+  if (sortBy === "price-desc") return copy.sort((a, b) => b.price - a.price);
   return copy;
 }
