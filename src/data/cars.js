@@ -14,7 +14,7 @@ export const cars = [
   {
     id: 1,
     name: "Land Rover Defender",
-    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    image: "https://www.the-landrovers.com/wp-content/uploads/2025/08/theLandrovers-electricdefender-modifiedcar-electriccar-Land-Rover-custombuild-defenderusa-defender-london-19-scaled.jpg",
     price: 40000,
     extraRate: 4000,
     fuel: "Diesel",
@@ -27,7 +27,7 @@ export const cars = [
   {
     id: 2,
     name: "Bentley",
-    image: "https://images.unsplash.com/photo-1580274455191-1c62238fa333?w=800&q=80",
+    image: "https://www.bentleymotors.com/content/dam/bm/websites/bmcom/bentleymotors-com/models/26my/bentayga-speed/Model%20Stage%20Main.jpg/_jcr_content/renditions/original.image_file.1120.480.file/Model%20Stage%20Main.jpg",
     price: 45000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -40,7 +40,7 @@ export const cars = [
   {
     id: 3,
     name: "Hummer H2",
-    image: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+    image: "https://imgd.aeplcdn.com/400x300/vimages/202507/4073034_3609_1753787156967.jpg?qp=80&fit=true",
     price: 35000,
     extraRate: 4000,
     fuel: "Petrol",
@@ -53,7 +53,7 @@ export const cars = [
   {
     id: 4,
     name: "Mercedes G Wagon",
-    image: "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/G-Class/10258/1763533134182/front-left-side-47.jpg",
     price: 60000,
     extraRate: 4000,
     fuel: "Petrol",
@@ -66,7 +66,7 @@ export const cars = [
   {
     id: 5,
     name: "Rolls-Royce",
-    image: "https://images.unsplash.com/photo-1631295868223-63265b40d9e4?w=800&q=80",
+    image: "https://media.zigcdn.com/media/model/2026/Jan/rolls-royce-spectre_360x240.jpg",
     price: 190000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -79,7 +79,7 @@ export const cars = [
   {
     id: 6,
     name: "Ford Mustang",
-    image: "https://images.unsplash.com/photo-1547744152-14d985cb937b?w=800&q=80",
+    image: "https://imgd.aeplcdn.com/370x208/cw/ec/34823/Ford-Mustang-Exterior-129212.jpg?wm=1&q=80",
     price: 45000,
     extraRate: 4000,
     fuel: "Petrol",
@@ -92,7 +92,7 @@ export const cars = [
   {
     id: 7,
     name: "Toyota Fortuner",
-    image: "https://images.unsplash.com/photo-1606016159991-dfe4f2746ad5?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner/10904/1755846017683/front-left-side-47.jpg",
     price: 10000,
     extraRate: 1000,
     fuel: "Diesel",
@@ -105,7 +105,7 @@ export const cars = [
   {
     id: 8,
     name: "Toyota Fortuner Legender",
-    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Toyota/Fortuner-Legender/10229/1764935522846/front-left-side-47.jpg",
     price: 11000,
     extraRate: 1000,
     fuel: "Diesel",
@@ -118,7 +118,7 @@ export const cars = [
   {
     id: 9,
     name: "Audi A4",
-    image: "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/10548/1757137106350/front-left-side-47.jpg?tr=w-360",
     price: 10000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -144,7 +144,7 @@ export const cars = [
   {
     id: 11,
     name: "Mercedes C Class",
-    image: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/C-Class/10858/1774342866770/front-left-side-47.jpg",
     price: 14000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -157,7 +157,7 @@ export const cars = [
   {
     id: 12,
     name: "Mercedes E Class",
-    image: "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/E-Class/9790/1763471140336/front-left-side-47.jpg",
     price: 16000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -170,7 +170,7 @@ export const cars = [
   {
     id: 13,
     name: "Audi Q7 (7 Seater)",
-    image: "https://images.unsplash.com/photo-1542362567-b07e54358753?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/Q7/12198/1768206503532/front-left-side-47.jpg",
     price: 21000,
     extraRate: 1000,
     fuel: "Diesel",
@@ -183,7 +183,7 @@ export const cars = [
   {
     id: 14,
     name: "Audi A3 Convertible",
-    image: "https://images.unsplash.com/photo-1603584173870-7f23fdae1b7a?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/930x620/Audi/A3-cabriolet/5610/1759818923150/front-left-side-47.jpg",
     price: 16000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -196,7 +196,7 @@ export const cars = [
   {
     id: 15,
     name: "Mercedes Convertible",
-    image: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/AMG-E-53-Cabriolet/10878/1763468433617/front-left-side-47.jpg",
     price: 20000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -209,7 +209,7 @@ export const cars = [
   {
     id: 16,
     name: "Mercedes S Class",
-    image: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+    image: "https://cdn-s3.autocarindia.com/Mercedes/s-class-facelift/pre-media_26c0017_023.jpg?w=640&q=75",
     price: 30000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -222,7 +222,7 @@ export const cars = [
   {
     id: 17,
     name: "Mercedes Maybach",
-    image: "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mercedes-Benz/Maybach-GLS/8443/1715664574127/front-view-118.jpg",
     price: 40000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -248,7 +248,7 @@ export const cars = [
   {
     id: 19,
     name: "Limousine",
-    image: "https://images.unsplash.com/photo-1563720223185-11003d516935?w=800&q=80",
+    image: "https://limousinesworld.com/wp-content/uploads/2021/04/rrlimo20.jpeg",
     price: 25000,
     extraRate: 1000,
     fuel: "Petrol",
@@ -259,23 +259,18 @@ export const cars = [
     duration: "13 hrs",
   },
 
-  // ══════════════════════════════════════════════════════════
-  //  SELF DRIVE CARS  —  24 hrs
-  // ══════════════════════════════════════════════════════════
-
-  // ── Premium / Exotic ──────────────────────────────────────
   {
     id: 20,
     name: "Porsche (2 Seater)",
-    image: "https://images.unsplash.com/photo-1611821064430-0d40291d0f0b?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Porsche/911/11757/1762933836560/front-left-side-47.jpg",
     price: 100000,
     extraRate: null,
     fuel: "Petrol",
     seats: 2,
     type: "Sports",
     brand: "Porsche",
-    category: "self-drive",
-    duration: "24 hrs",
+    category: "wedding",
+    duration: "13 hrs",
   },
   {
     id: 21,
@@ -287,13 +282,20 @@ export const cars = [
     seats: 2,
     type: "Convertible",
     brand: "BMW",
-    category: "self-drive",
-    duration: "24 hrs",
+    category: "wedding",
+    duration: "13 hrs",
   },
+
+  
+  // ══════════════════════════════════════════════════════════
+  //  SELF DRIVE CARS  —  24 hrs
+  // ══════════════════════════════════════════════════════════
+
+  // ── Premium / Exotic ──────────────────────────────────────
   {
     id: 22,
     name: "Land Rover Defender",
-    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6mxBOJcmvzRY4gaWm3Q1kYJ7m852BZcG1dQ&s",
     price: 50000,
     extraRate: null,
     fuel: "Diesel",
@@ -306,7 +308,7 @@ export const cars = [
   {
     id: 23,
     name: "Mercedes G Wagon",
-    image: "https://images.unsplash.com/photo-1553440569-bcc63803a83d?w=800&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-z8xvD3hD5vEMZL0LWEGrt7eekanCiqWY7A&s",
     price: 80000,
     extraRate: null,
     fuel: "Petrol",
@@ -319,7 +321,7 @@ export const cars = [
   {
     id: 24,
     name: "Ford Mustang",
-    image: "https://images.unsplash.com/photo-1547744152-14d985cb937b?w=800&q=80",
+    image: "https://imgd.aeplcdn.com/370x208/cw/ec/34823/Ford-Mustang-Exterior-129212.jpg?wm=1&q=80",
     price: 60000,
     extraRate: null,
     fuel: "Petrol",
@@ -332,7 +334,7 @@ export const cars = [
   {
     id: 25,
     name: "Porsche Boxster Convertible",
-    image: "https://images.unsplash.com/photo-1580273916550-e323be2ae537?w=800&q=80",
+    image: "https://imgd.aeplcdn.com/664x374/n/cw/ec/24421/718-exterior-right-front-three-quarter-90911.jpeg?isig=0&q=80",
     price: 80000,
     extraRate: null,
     fuel: "Petrol",
@@ -358,7 +360,7 @@ export const cars = [
   {
     id: 27,
     name: "Audi A4",
-    image: "https://images.unsplash.com/photo-1606664515524-ed2f786a0bd6?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Audi/A4/10548/1757137106350/front-left-side-47.jpg?tr=w-360",
     price: 12000,
     extraRate: null,
     fuel: "Petrol",
@@ -371,7 +373,7 @@ export const cars = [
   {
     id: 28,
     name: "Mercedes C Class",
-    image: "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/C-Class/10858/1774342866770/front-left-side-47.jpg",
     price: 14000,
     extraRate: null,
     fuel: "Petrol",
@@ -384,7 +386,7 @@ export const cars = [
   {
     id: 29,
     name: "Mercedes E Class",
-    image: "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+    image: "https://stimg.cardekho.com/images/carexteriorimages/630x420/Mercedes-Benz/E-Class/9790/1763471140336/front-left-side-47.jpg",
     price: 16000,
     extraRate: null,
     fuel: "Petrol",
@@ -397,7 +399,7 @@ export const cars = [
   {
     id: 30,
     name: "Hummer H2",
-    image: "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?w=800&q=80",
+    image: "https://platform.cstatic-images.com/in/v2/stock_photos/d9fc24b9-35f5-480e-918f-8c3ec841b33b/d1629b61-afa2-4859-8d27-b2ad58d80c6f.png",
     price: 70000,
     extraRate: null,
     fuel: "Petrol",
@@ -410,7 +412,7 @@ export const cars = [
   {
     id: 31,
     name: "Mercedes Maybach",
-    image: "https://images.unsplash.com/photo-1609521263047-f8f205293f24?w=800&q=80",
+    image: "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/115149/maybach-s-class-exterior-right-front-three-quarter-6.png?isig=0&q=80&q=80",
     price: 60000,
     extraRate: null,
     fuel: "Petrol",
@@ -438,7 +440,7 @@ export const cars = [
   {
     id: 33,
     name: "Toyota Fortuner Legender (Diesel)",
-    image: "https://images.unsplash.com/photo-1519641471654-76ce0107ad1b?w=800&q=80",
+    image: "https://imgd.aeplcdn.com/1920x1080/n/cw/ec/137767/fortuner-legender-exterior-left-front-three-quarter-5.jpeg?isig=0&q=80&q=80",
     price: 12000,
     extraRate: null,
     fuel: "Diesel",
