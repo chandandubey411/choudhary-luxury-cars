@@ -14,7 +14,7 @@ export const cars = [
   {
     id: 1,
     name: "Land Rover Defender",
-    image: "https://www.the-landrovers.com/wp-content/uploads/2025/08/theLandrovers-electricdefender-modifiedcar-electriccar-Land-Rover-custombuild-defenderusa-defender-london-19-scaled.jpg",
+    image: "/landroverdefender.jpeg",
     price: 40000,
     extraRate: 4000,
     fuel: "Diesel",
@@ -662,6 +662,6 @@ export const cars = [
     type: "Hatchback",
     brand: "Maruti",
     category: "self-drive",
-    duration: "24 hrs",
+    duration: "24 hrs", 
   },
 ];
